@@ -1,0 +1,9 @@
+c:\users\dznit0\documents\visual studio 2015\Projects\AutoClicker v1.0\AutoClicker v1.0\bin\Debug\AutoClicker v1.0.exe.config
+c:\users\dznit0\documents\visual studio 2015\Projects\AutoClicker v1.0\AutoClicker v1.0\bin\Debug\AutoClicker v1.0.exe
+c:\users\dznit0\documents\visual studio 2015\Projects\AutoClicker v1.0\AutoClicker v1.0\bin\Debug\AutoClicker v1.0.pdb
+c:\users\dznit0\documents\visual studio 2015\Projects\AutoClicker v1.0\AutoClicker v1.0\obj\Debug\AutoClicker v1.0.csprojResolveAssemblyReference.cache
+c:\users\dznit0\documents\visual studio 2015\Projects\AutoClicker v1.0\AutoClicker v1.0\obj\Debug\AutoClicker_v1._0.Form1.resources
+c:\users\dznit0\documents\visual studio 2015\Projects\AutoClicker v1.0\AutoClicker v1.0\obj\Debug\AutoClicker_v1._0.Properties.Resources.resources
+c:\users\dznit0\documents\visual studio 2015\Projects\AutoClicker v1.0\AutoClicker v1.0\obj\Debug\AutoClicker v1.0.csproj.GenerateResource.Cache
+c:\users\dznit0\documents\visual studio 2015\Projects\AutoClicker v1.0\AutoClicker v1.0\obj\Debug\AutoClicker v1.0.exe
+c:\users\dznit0\documents\visual studio 2015\Projects\AutoClicker v1.0\AutoClicker v1.0\obj\Debug\AutoClicker v1.0.pdb
